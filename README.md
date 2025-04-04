@@ -1,5 +1,10 @@
 # Audi-website-clone-using-html-and-css
 A simple and responsive clone of the Audi website's front page, built using HTML and CSS. This project replicates the sleek and modern design of Audi’s homepage with clean code and structured styling. 🚗✨
 
+
+# DISCLAIMER
+# This website clone is created for educational and learning purposes only. All rights to the original content and design belong to their respective owners.
+
+
 # Screenshot
 ![Screenshot_3-4-2025_10457_](https://github.com/user-attachments/assets/70d0ed77-cd4a-417f-ac5b-3d38f6ac3882)
